@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+#stage{
+    display: block;
+    position: relative;
+    margin: auto;
+    margin-top: 15%;
+    width: 300px;
+    height: 250px;
+}
